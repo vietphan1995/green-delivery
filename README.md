@@ -14,7 +14,7 @@ Green Delivery encourage shipper use green vehicles like walking, electrical or 
 
 ![image.png](image%201.png)
 
-Green Delivery booking progress concept should has enough shipper in authorized, shipper’s smart device, their shipping goods. Green Delivery application tracks shipper transport progress as their goods.
+Green Delivery booking progress concept should has enough shipper in authorized, shipper’s smart device, their shipping goods. Green Delivery application tracks shipper transport progress as their goods, with good code, vehicle information.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
