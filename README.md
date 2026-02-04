@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/green-delivery.git](https://github.com/vietphan1995/green-delivery.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:green-delivery_project&body=left_your_idea)
+
 Green Delivery is a software application which helps booking deliveries by green ways. Green ways can be listed as low to zero energy composition, safety and low cost.
 
 ![image.png](image.png)
@@ -15,6 +17,8 @@ Green Delivery encourage shipper use green vehicles like walking, electrical or 
 ![image.png](image%201.png)
 
 Green Delivery booking progress concept should has enough shipper in authorized, shipper’s smart device, their shipping goods. Green Delivery application tracks shipper transport progress as their goods, with good code, vehicle information.
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
