@@ -23,4 +23,4 @@ Green Delivery booking progress concept should has enough shipper in authorized,
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://phantrungviet.notion.site/green-delivery-1b35e832d6ee8023b61cf8f5ea371605
+https://maianhcorporation.notion.site/green-delivery-1b35e832d6ee8023b61cf8f5ea371605
